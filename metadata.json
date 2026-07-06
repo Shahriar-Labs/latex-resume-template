@@ -1,0 +1,8 @@
+{
+  "name": "Two-Column Resume",
+  "compiler": "pdflatex",
+  "description": "A modern, ATS-friendly two-column LaTeX resume template \u2014 tinted sidebar, clean typography, one page.",
+  "source": "https://letx.app/templates/cvs-resumes/two-column-resume/",
+  "author": "LetX",
+  "license": "MIT"
+}
