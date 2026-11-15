@@ -6,7 +6,7 @@
 
 **A modern, ATS-friendly two-column LaTeX resume template — tinted sidebar, clean typography, one page.**
 
-**[Open this template in LetX](https://letx.app/open?template=two-column-resume)**: it becomes a new project you can edit and compile in your browser, with no LaTeX install, real-time collaboration and compiles that take a few seconds. Its page in the gallery is [here](https://letx.app/templates/cvs-resumes/two-column-resume/).
+Edit and compile this template in your browser at **[letx.app](https://letx.app/templates/cvs-resumes/two-column-resume/)**, with no LaTeX install and real-time collaboration. A compile takes a few seconds.
 
 ![LaTeX Resume Template — Modern Two-Column preview](preview.png)
 
